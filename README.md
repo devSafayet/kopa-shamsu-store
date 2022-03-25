@@ -1,4 +1,4 @@
-# Resource
+# kopa-shamsu-store
 
 gun data live site link : 
 
